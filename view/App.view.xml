@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mvc:View
+controllerName = "sap.ui.demo.controller.App"
+xmlns = "sap.m"
+xmlns:mvc = "sap.ui.core.mvc"
+>
+    <App id="tracker">
+        <Page title="Fitness Wearable Tracker">
+            <content>
+                <TileContainer id="main" tiles="{/AppTiles}">
+                    <StandardTile
+                    icon="sap-icon://{icon}"
+                    type="{type}"
+                    number="{number}"
+                    numberUnit="{numberUnit}"
+                    title="{title}"
+                    info="{info}"
+                    infoState="{infoState}"
+                    />
+                </TileContainer>
+            </content>
+        </Page>
+    </App>
+
+</mvc:View>
