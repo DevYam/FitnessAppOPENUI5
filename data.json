@@ -1,0 +1,52 @@
+{
+  "AppTiles" : [
+    {
+      "icon" : "map",
+      "number": "55.7",
+      "numberUnit": "Miles",
+      "title" : "Total Miles",
+      "info" : "Fitness",
+      "infoState" : "Success"
+    },
+    {
+      "icon" : "physical-activity",
+      "number" : "24,500",
+      "numberUnit" : "Steps",
+      "title" : "Total Steps",
+      "info" : "Fitness",
+      "infoState" : "Success"
+    },
+    {
+      "icon" : "meal",
+      "number" : "3,410",
+      "numberUnit" : "Calories",
+      "title" : "Avg. Calories Burned",
+      "info" : "Fitness",
+      "infoState" : "Warning"
+    },
+      {
+      "icon" : "electrocardiogram",
+      "number" : "633",
+      "numberUnit" : "Minutes",
+      "title" : "Total Active Minutes",
+      "info" : "Fitness",
+      "infoState" : "Error"
+    },
+    {
+      "icon" : "electronic-medical-record",
+      "number" : "5 of 5",
+      "numberUnit" : "Days",
+      "title" : "Number of Days Exercising",
+      "info" : "Fitness",
+      "infoState" : "Success"
+    },
+      {
+      "icon" : "bed",
+      "number" : "7 Hrs 20 Mins",
+      "numberUnit" : "Hours",
+      "title" : "Avg. Restful Sleep",
+      "info" : "Fitness",
+      "infoState" : "Warning"
+    }
+ ]
+}
